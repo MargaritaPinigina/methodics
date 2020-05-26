@@ -1,17 +1,15 @@
-# methodics
-## Hello, I'm Margarita Pinigina.
+# Путь из общежития №8 в корпус на Старой Басманной
 
-Here's my photo:
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbihJjZJf930ECNHwUMxc-557sexss7vzg7MM5vLw_da84od0p&usqp=CAU)
+Такой путь ~~каждый день преодолевают~~ *преодолевали до карантина* студенты Школы лингвистики НИУ ВШЭ, которые живут в общежитии №8 в Одинцово:
 
-*I'm a first-year student at HSE.*
-~~And I really hope there will be the second one...~~
+1.[Общежитие НИУ ВШЭ № 8](https://www.hse.ru/dormitory/3listnik/)
+![alt text](https://www.hse.ru/pubs/share/direct/224124948.jpg)
+2. [Железнодорожная станция Одинцово](https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B8%D0%BD%D1%86%D0%BE%D0%B2%D0%BE_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F)) - сесть на электричку
+3. [Железнодорожная станция Кунцево](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D1%86%D0%B5%D0%B2%D0%BE_I) - выйти из электрички
+4. [Станция метро Кунцевская](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%90%D1%80%D0%B1%D0%B0%D1%82%D1%81%D0%BA%D0%BE-%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8_%D0%A4%D0%B8%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8)) - сесть на синюю ветку в сторону Щёлковской
+5. [Станция метро Курская](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BA%D0%B0%D1%8F_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%90%D1%80%D0%B1%D0%B0%D1%82%D1%81%D0%BA%D0%BE-%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F)) - выйти из метро, выход № 4
+6. [НИУ ВШЭ, Школа лингвистики](https://ling.hse.ru/howtogetthere)
 
-[Please, contact me here.](https://vk.com/m_pinigina)
-
-My task was to make my first repo and use:
->1. Header
->2. _Italics_, __bond__, ~~strikethrough~~
->3. Link
->4. Image
->5. Quote
+__Примеры заданий:__
+>1. На карте отмечены, но не соединены несколько других точек: железнодорожные станции и станции метро. Предложите другие варианты пути до Школы лингвистики, кроме маршрута через станции Кунцеская и Кунцево. __Ответ:__ _Беговая - Беговая, Фили - Фили, Белорусский вокзал - Белорусская._
+>2. Воспользуйтесь [картой метро Москвы](https://www.moscowmap.ru/metro.html) и определите самый удобный и быстрый путь от общежития № 8 до Школы лингвистики. В ответе запишите железнодорожную станцию прибытия, первую станцию метро и последнюю станцию метро (в скобочках укажите ветку метро). __Ответ:__ _Кунцево - Кунцевская - Курская (синяя)_ или _Белорусский вокзал - Белорусская - Курская (кольцевая)_.
